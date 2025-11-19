@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pandas
+numpy
+scikit-learn
+mlflow
+apache-airflow
+joblib
+statsmodels
+arch
+shap

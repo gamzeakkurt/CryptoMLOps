@@ -1,0 +1,4 @@
+test,statistic,p_value,stationary,autocorrelated,normal_distribution
+Augmented Dickey-Fuller,-32.16138012064329,0.0,True,,
+Ljung–Box,29.098540388037026,0.08583713809958918,,False,
+Shapiro–Wilk,0.9167733192443848,1.3592595103950726e-43,,,False

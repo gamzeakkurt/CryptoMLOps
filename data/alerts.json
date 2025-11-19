@@ -1,0 +1,10 @@
+[
+    {
+        "type": "model_degradation",
+        "message": "MSE increased 25%: 0.000009 \u2192 0.000024"
+    },
+    {
+        "type": "missing_file",
+        "message": "Missing data file: prediction.csv"
+    }
+]
